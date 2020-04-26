@@ -1,6 +1,5 @@
-### Final Project
 # Divorce Prediction
-### Motivations for the topic:
+### Motivations:
 - Curious to find out why over 50% of all marriages in the US end up in a divorce or separation.
 - What circumstances lead to a divorce? How to take precautions in a holistic way?
 - Does occupation, age, race & location play a role in the divorce? 
@@ -17,7 +16,6 @@
 ### Machine Learning Model
 Logistic Regression
 ### Instruction on code order
-1. Run 
 ### Link to Tableau story
 [United States Marriage and Divorce in Numbers](https://public.tableau.com/profile/thi7884#!/vizhome/nationalrates/Story_US_Marriage_Divorce)
 ### Link to Google Slides Presentation 
